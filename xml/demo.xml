@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
-<note>
-  <to>Tove</to>
-  <from>Jani</from>
-  <heading>Reminder</heading>
-  <body>Don't forget me this weekend!</body>
-</note>
+<book-container>
+    <book>
+        <id>10</id>
+        <bname>HTML</bname>
+        <bprice>100</bprice>
+        <bpages>200</bpages>
+    </book>    
+</book-container>
