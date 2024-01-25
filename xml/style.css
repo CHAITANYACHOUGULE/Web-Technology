@@ -4,7 +4,7 @@ books {
 	width: 100%; 
 } 
 heading { 
-	color: green; 
+	color: rgb(57, 154, 57); 
 	font-size : 40px; 
 	background-color : powderblue; 
 } 
